@@ -17,7 +17,7 @@ float hesap(float a,float b,char islem){
 }
 
 int main(){
-	float a,b,csonuc;
+	float a,b,c,sonuc;
 	char islem; 
 
 	while(1){
