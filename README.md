@@ -1,1 +1,1 @@
-Bu repo, Programlama Dilleri 1-2 dersleri için yazdığım C kodlarının yeniden yazılmış ve düzenlenmiş hallerinden oluşuyor. 
+Bu repo, çoğunlukla Programlama Dilleri 1-2 dersleri için yazdığım C kodlarının yeniden yazılmış ve düzenlenmiş hallerinden oluşuyor.Hem gözden geçirilmiş kodlarıma dönüp bakabileceğim hem de zaman içerisinde ilerleyişimi görebileceğim bir referans olması adına faydalı olmasını umuyorum.
